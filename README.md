@@ -15,30 +15,16 @@ Xin chào! Tôi là Phạm Hoàng Hương, sinh ngày 29/02/2004. Là một Back
 - Làm việc với các công nghệ: PHP, Laravel, MySQL
 - Tham gia vào quy trình phát triển phần mềm theo mô hình Agile
 
-<section>
 ## 🛠 Kỹ Năng Chuyên Môn
-<div class="skill-badge">PHP/Laravel</div>
-<div class="skill-badge">Vue.js</div>
-<div class="skill-badge">MySQL</div>
-</section>
 
-<div class="progress-bar">
-  <div class="progress" style="--progress-width: 85%"></div>
-</div>
+![PHP/Laravel](https://img.shields.io/badge/-PHP%2FLaravel-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
-
-### Frontend Development
-- JavaScript/Vue.js/React
-- HTML5/CSS3
-- Responsive Design
-
-### Công Nghệ & Công Cụ
-- Laragon
-- Git/GitHub
-- MySQL
-- Visual Studio Code
-- Postman
+### Mức độ thành thạo:
+- PHP/Laravel: ███████████████████░░ 85%
+- Vue.js: ██████████████████░░░ 80%
+- MySQL: ████████████████░░░░░ 75%
 
 ## 🌟 Dự Án Nổi Bật
 ### Hệ Thống Quản Lý Bán Hàng
@@ -54,13 +40,13 @@ Xin chào! Tôi là Phạm Hoàng Hương, sinh ngày 29/02/2004. Là một Back
 ### Website Portfolio Cá Nhân
 - **Mô tả**: Trang web giới thiệu bản thân và các dự án
 - **Công nghệ**: React, GitHub Pages
-- **Link**: [https://github.com/hoanghuong29022004/PHH]
+- **Link**: [https://hoanghuong29022004.github.io/PHH/]
 
 ## 📫 Liên Hệ
 - **Email**: phamhoanghuong.dev@gmail.com
 - **GitHub**: [github.com/hoanghuong29022004](https://github.com/hoanghuong29022004)
 - **Phone**: [0932507102]
-- **Địa chỉ**: Hà Nội, Việt Nam
+- **Địa chỉ**: Hồ Chí Minh, Việt Nam
 
 ## 🌐 Ngôn Ngữ
 - Tiếng Việt (Bản ngữ)
